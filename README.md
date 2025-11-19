@@ -42,7 +42,7 @@ This is the beginning of the lifecycle of a ticket. Once a ticket has been creat
 This stage represents the main body of the ticket lifecycle. Operators and support staff work the issue, communicate with users, gather necessary information, and perform troubleshooting needed to resolve the problem.
 
 <p align="center">
-  <img src="https://i.imgur.com/HW8C36S.jpeg" width="80%" alt="Working the Ticket" />
+  <img src="https://i.imgur.com/WiHPR2g.jpeg" width="80%" alt="Working the Ticket" />
 </p>
 
 ---
